@@ -1,0 +1,8 @@
+*~
+*.swp
+*.a
+*.o
+*.d
+fft-web
+*.cal
+.fftw*
